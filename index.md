@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Kyle S. Johnston
-name: kylesjohnston.com
+title: KyleSJohnston.com
 description: Kyle S. Johnston's Github Pages
 ---
 
