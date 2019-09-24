@@ -4,7 +4,17 @@ title: KyleSJohnston.com
 description: Kyle S. Johnston's Personal Webpage
 ---
 
-**Note:** Page construction in progress...
+## About Me
+
+I work in quantitative finance at a hedge fund. My current language is Python, but I'm experimenting with Julia. (I'm convinced the two-language problem is worth solving most of the time.)
+
+I enjoy applying data and analytics to the sports world. I'm a fan of all the Boston teams&mdash;Patriots, Bruins, Celtics and RedSox
+
+## Connect
+
+- <a href="https://github.com/KyleSJohnston">GitHub</a>
+- <a href="https://twitter.com/KyleSJohnston">Twitter</a>
+- <a href="https://www.linkedin.com/in/KyleSJohnston/">LinkedIn</a>
 
 {% comment %}
 {% for post in site.posts %}
