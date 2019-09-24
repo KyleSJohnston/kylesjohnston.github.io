@@ -1,11 +1,12 @@
 ---
 layout: default
 title: KyleSJohnston.com
-description: Kyle S. Johnston's Github Pages
+description: Kyle S. Johnston's Personal Webpage
 ---
 
 **Note:** Page construction in progress...
 
+{% comment %}
 {% for post in site.posts %}
   <article>
     <h2>
@@ -17,3 +18,4 @@ description: Kyle S. Johnston's Github Pages
     {{ post.content }}
   </article>
 {% endfor %}
+{% endcomment %}
