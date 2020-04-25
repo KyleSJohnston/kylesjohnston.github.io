@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KyleSJohnston.com
+title: KyleSJohnston.github.io
 description: Kyle S. Johnston's Personal Webpage
 ---
 
