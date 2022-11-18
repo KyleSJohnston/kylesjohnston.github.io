@@ -13,8 +13,9 @@ I enjoy applying data and analytics to the sports world. I'm a fan of all the Bo
 ## Connect
 
 - <a href="https://github.com/KyleSJohnston">GitHub</a>
-- <a href="https://twitter.com/KyleSJohnston">Twitter</a>
 - <a href="https://www.linkedin.com/in/KyleSJohnston/">LinkedIn</a>
+- <a rel="me" href="https://ksj.social/@kyle">Mastodon</a>
+- <a href="https://twitter.com/KyleSJohnston">Twitter</a>
 
 {% comment %}
 {% for post in site.posts %}
