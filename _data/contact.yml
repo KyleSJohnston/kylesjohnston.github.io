@@ -5,15 +5,15 @@
 
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/kylesjohnston.bsky.social'  # Fill with your Bluesky profile link
+  url: 'https://bsky.app/profile/ksj.social'  # Fill with your Bluesky profile link
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/kylesjohnston/'  # Fill with your Linkedin homepage
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
