@@ -7,7 +7,6 @@ toc: true   # default
 pin: false  # default
 image:
   path: /assets/img/pexels-shottrotter-791778.jpg
-  alt: '"A captivating view of a modern spiral staircase structure in Lommel, Belgium." <a href="https://www.pexels.com/photo/low-angle-photography-of-tower-791778/">Source</a>'
 ---
 
 Even for basic data analysis, programming with dependences requires judgments about security.
@@ -158,3 +157,9 @@ In this scenario, new code will need to be written to overcome gaps in functiona
 Security postures vary widely. What might be appropriate in one situation or application might be incredibly risky for another. There are no universal recommendations, and there is no substitute for trust. The same trust that makes a dependency ecosystem effective also makes it a target.
 
 Computer security is little more than a background thought for many programming roles. When the primary objectives are sourcing and making sense of data, it's easy to lose track of the attack surface formed by the code and dependencies. That's worth remembering, even if functionality seems more important.
+
+---
+
+Post image: "A captivating view of a modern spiral staircase structure in Lommel, Belgium." [Source](https://www.pexels.com/photo/low-angle-photography-of-tower-791778/)
+
+---
